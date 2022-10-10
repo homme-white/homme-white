@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @homme-white
+- 👋 Hi, I’m @homme-white 包文辉
 - 👀 I’m interested in singing codeing running and gaming
 - 🌱 I’m currently learning opencv,svm;
 - 📫 How to reach me : add qq 821894893
