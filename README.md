@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @homme-white 包文辉
+- 👋 Hi, I’m @homme-white ,Chinese name is 包文辉 Bao Wenhui
+-     I'm from Northeastern University china
 - 👀 I’m interested in singing codeing running and gaming
 - 🌱 I’m currently learning opencv,svm;
 - 📫 How to reach me : add qq 821894893
