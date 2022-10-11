@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @homme-white ,Chinese name is Bao Wenhui
+- 👋 Hi, I’m @homme-white ,Chinese name is Wenhui
 -     I'm from Northeastern University china
 - 👀 I’m interested in singing codeing running and gaming
 - 🌱 I’m currently learning opencv,svm;
